@@ -8,11 +8,47 @@ Codebase for fast prototyping of deep learning applications
 
 ## Content
 
-### 0. General Ideas 
+### 1. Tutorial 
 
-### 1. Deep Learning for Computer Vision
+#### a. Logistic Regression from Neural Network Perspective
+> Logistic regression for cat image classification.
 
-### 2. Deep Learning for Sequence Modeling
-   
+#### b. Planar Data Classification 
+> Planar data classification using logistic regression with feature engineering and multiple layer perceptron.
+
+#### c. Simple Deep Neural Network Library
+> Procedure-oriented and Keras style deep neural network library using numpy.
+
+#### d. Standard Workflow
+> Standard workflow demo using deep neural network library built in section c.
+
+#### e. Weight Initialization, Regularization and Gradient Checking
+> Weight Initialization: From random initialization to Xavier and He initialization.
+
+> Regularization: L2 weight regularization and drop out.
+
+> Gradient Checking: Numerical methods for gradient validation.
+
+#### f. Optimization
+> Gradient descent, momentum and adam.
+
+#### g. Tensorflow and Keras
+> Tutorials for Tensorflow and Keras.
+
+#### h. Dive into Tensorflow
+> From basic operations to applications using logistic regression, multiple-layer perceptron and convolutional neural network.
+
+#### i. Deep Neural Network in Tensorflow
+> Demo application for deep neural network development in Tensorflow.
+
+### 2. Computer Vision
+
+
+
+### 3. Sequence Modeling
+
+#### a. Fundamentals of Recurrent Neural Network
+> Forward and backward propagation for both simple, GRU and LSTM RNN cells using numpy.
+
 ---
 
