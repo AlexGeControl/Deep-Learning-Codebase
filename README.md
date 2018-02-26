@@ -23,11 +23,10 @@ Codebase for fast prototyping of deep learning applications
 > Standard workflow demo using deep neural network library built in section c.
 
 #### e. Weight Initialization, Regularization and Gradient Checking
-> Weight Initialization: From random initialization to Xavier and He initialization.
-
-> Regularization: L2 weight regularization and drop out.
-
-> Gradient Checking: Numerical methods for gradient validation.
+> Topics include:
+> * Weight Initialization: From random initialization to Xavier and He initialization.
+> * Regularization: L2 weight regularization and drop out.
+> * Gradient Checking: Numerical methods for gradient validation.
 
 #### f. Optimization
 > Gradient descent, momentum and adam.
