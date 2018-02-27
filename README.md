@@ -73,12 +73,13 @@ Codebase for fast prototyping of deep learning applications
 
 #### f. Many-To-Many, Different Input and Output Lengths
 > Applications include:
-> * Statistical machine translation.
+> * Datetime translation.
+> * Trigger word detection.
 
 #### g. ChatBot
 > Applications include:
 > * Software development support bot.
-> * Software development support bot.
+> * Custom dialog bot.
 
 ---
 
