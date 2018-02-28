@@ -6,6 +6,12 @@ Codebase for fast prototyping of deep learning applications
 
 ---
 
+## Notebook Presentation
+
+Copy and paste notebook URL into http://nbviewer.jupyter.org/ then press *Go!*
+
+---
+
 ## Content
 
 ### 1. Tutorial 
