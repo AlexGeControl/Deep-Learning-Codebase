@@ -50,6 +50,37 @@ Copy and paste notebook URL into http://nbviewer.jupyter.org/ then press *Go!*
 
 ### 2. Computer Vision
 
+#### a. Fundamentals of Convolutional Neural Network
+> Forward and backward propagation for both standard convolution, max & average pooling in numpy.
+
+#### b. Standard Workflow
+> Standard workflow for both Tensorflow and Keras.
+
+#### c. Image Classification
+> Architectures include:
+> * LeNet.
+> * AlexNet.
+> * VGG16.
+> * Inception Network.
+> * Residual Network.
+
+#### d. Object Detection
+> Architectures include:
+> * YOLO v2.
+
+#### e. Fully Convolutional Network
+> Applications include:
+> * Scene segmentation for autonomous driving.
+
+#### f. Autoencoders and Generative-Adversarial-Network
+> Applications include:
+> * Simple autoencoder.
+> * Convolutional autoencoder.
+> * Denoised convolutional autoencoder.
+> * Variational autoencoder.
+> * Conditional variational autoencoder.
+> * Generative-adversarial network.
+
 ---
 
 ### 3. Sequence Modeling
